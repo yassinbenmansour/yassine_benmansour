@@ -1,7 +1,7 @@
 Hi 👋 My name is yassine benmansour
 ===================================
 
-I'm Developer
+I'm Software engineer
 -------------
 
 📚 I'm constantly learning new skills and striving for progress 
