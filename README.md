@@ -9,7 +9,7 @@ I'm Software engineer
 ⚡ Motto: Keep striving for progress, not perfection
 
 * 🌍  I'm based in Maroc
-* 🖥️  See my portfolio at [yassine benmansour](https://yassinbenmansour.github.io/Yassine-benmansour/index.html)
+* 🖥️  See my portfolio at [yassine benmansour]()
 * ✉️  You can contact me at [benmasouryassine@gmail.com](mailto:benmasouryassine@gmail.com)
 
 ### Socials
